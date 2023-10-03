@@ -16,7 +16,7 @@ public:
                 notwos++;
             }
         }
-        //filling
+        //filling the elements
         for(int i=0;i<noz;i++){
                 nums[i]=0;
         }
