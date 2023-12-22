@@ -14,17 +14,28 @@ public:
         if(head==NULL||head->next==NULL){
             return NULL;
         }
+        // ListNode *slow=head;
+        // ListNode *fast=head;
+        // fast=fast->next->next;
+        // // ListNode *temp=NULL;
+        // while(fast!=NULL&&fast->next!=NULL){
+        //     // temp=slow;
+        //     slow=slow->next;
+        //     fast=fast->next->next;
+        // }
+        // slow->next=slow->next->next;
+        
+//         using three pointer 
         ListNode *slow=head;
         ListNode *fast=head;
-        fast=fast->next->next;
-        // ListNode *temp=NULL;
+        ListNode *temp=NULL;
         while(fast!=NULL&&fast->next!=NULL){
-            // temp=slow;
+            temp=slow;
             slow=slow->next;
             fast=fast->next->next;
         }
-        slow->next=slow->next->next;
-         slow;
+        temp->next=temp->next->next;
+        
         return head;
     }
 };
