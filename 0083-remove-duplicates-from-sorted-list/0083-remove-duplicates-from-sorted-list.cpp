@@ -8,32 +8,22 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// we have to delete duplicates and return in sorted way 
+
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(head==NULL  ||  head->next==NULL) return head;
-
-        ListNode*prev=NULL;
-        ListNode*temp=NULL;
-        ListNode*curr=head;
-
-        while(curr!=NULL){
-            if(prev==NULL){
-                prev=curr;
-                temp=prev;
-                curr=curr->next;
-                continue;
+        ListNode*a=head;;
+        ListNode*b=head->next;
+        while(b!=NULL){
+            while(b!=NULL&&b->val==a->val){
+                b=b->next;
             }
-            if(curr->val == prev->val){
-                curr=curr->next;
-                if(curr==NULL) prev->next=NULL;
-            }
-            else{
-                prev->next=curr;
-                prev=curr;
-                curr=curr->next;
-            }
+            a->next=b;
+            a=b;
+            if(b!=NULL)b=b->next;
         }
-        return temp;
+        return head;
     }
 };
