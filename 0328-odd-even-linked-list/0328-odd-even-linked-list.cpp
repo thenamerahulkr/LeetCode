@@ -5,20 +5,24 @@ public:
             return NULL;
         ListNode* odd  = head;
         ListNode* even = head -> next;
-        ListNode* evenhead = head -> next;
-        
-        while(even != NULL and even -> next != NULL){
-            // put odd to the odd list
-            odd ->next = odd -> next -> next;
-            // Move the pointer to the next odd
-            odd = odd -> next;
-        
-            // put even to the even list
-            even -> next = even -> next -> next;
-            // Move the pointer to the next even
-            even = even -> next;
+        vector<int>v;
+        while(odd!=NULL&&odd->next!=NULL){
+            v.push_back(odd->val);
+            odd=odd->next->next;
         }
-        odd -> next = evenhead;
+        if(odd) v.push_back(odd->val);
+        while(even!=NULL&&even->next!=NULL){
+            v.push_back(even->val);
+            even=even->next->next;
+        }
+        if(even) v.push_back(even->val);
+        ListNode *temp=head;
+        int i=0;
+        while(i<v.size()){
+            temp->val=v[i];
+            temp=temp->next;
+            i++;
+        }
         return head;    
     }
 };
