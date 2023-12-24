@@ -23,9 +23,9 @@ public:
             temp=temp->next;
         }
         temp=head;
-        if(k==0){
-            return head;
-        }
+        // if(k==0){
+        //     return head;
+        // }
         k=k%cnt;
         for(int i=1;i<cnt-k;i++){
             temp=temp->next;
