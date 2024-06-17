@@ -1,2 +1,10 @@
-About
-"This repository contains a collection of solutions to algorithm and data structure problems from LeetCode.These solutions serve as a valuable resource for anyone preparing for coding interviews or aiming to enhance their problem-solving Skills.
+# Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/thenamerahulkr/LeetCode/tree/master/0792-binary-search) |
+
+
+# Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/thenamerahulkr/LeetCode/tree/master/0792-binary-search) |
