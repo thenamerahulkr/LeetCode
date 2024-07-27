@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         vector<long long> conversion(nums.size());
         vector<long long> score(nums.size());
-        int mx=INT_MIN;
+        int mx=nums[0];
         conversion[0]=2*nums[0];
         score[0]=conversion[0];
         for(int i=1;i<nums.size();i++){
