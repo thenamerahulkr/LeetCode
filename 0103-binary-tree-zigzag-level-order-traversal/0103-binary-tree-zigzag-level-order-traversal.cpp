@@ -29,7 +29,7 @@ public:
                 if(temp->right) q.push(temp->right);
             }
             ans.push_back(v);
-            flag =!flag;
+            flag =!flag; //yha apan false kar rhe hai taki jab array fill ho to ulta order me fill ho
         }
         return ans;
     }
