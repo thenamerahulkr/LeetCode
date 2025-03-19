@@ -11,10 +11,10 @@ public:
                 count++;
             }
         }
-        if(nums[n-2]== 1 and nums[n-1]== 1){
-            return count;
-        }
-        // return (nums[n - 2] == 1 && nums[n - 1] == 1) ? count : -1;
-        return -1;
+        // if(nums[n-2]== 1 and nums[n-1]== 1){
+        //     return count;
+        // }
+        return (nums[n - 2] == 1 && nums[n - 1] == 1) ? count : -1;
+        // return -1;
     }
 };
