@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -114,6 +115,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thenamerahulkr/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
