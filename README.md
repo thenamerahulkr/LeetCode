@@ -9,6 +9,7 @@
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -21,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -117,6 +119,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
