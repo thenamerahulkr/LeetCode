@@ -1,22 +1,22 @@
 class Solution {
-private:
-    void createSubset(vector<int>& nums, int index, vector<vector<int>>& res, vector<int>& subset) {
-        if (index == nums.size()) {
-            res.push_back(subset);
+public:
+    void solve(vector<vector<int>> &answer, int index, vector<int> &ds, vector<int> &nums){
+        // base case 
+        if(index == nums.size()){
+            answer.push_back(ds);
             return;
         }
-        // include
-        subset.push_back(nums[index]);
-        createSubset(nums, index + 1, res, subset);
-        subset.pop_back();
-        //not include
-        createSubset(nums, index + 1, res, subset);
-    }   
-public:
+        // include 
+        ds.push_back(nums[index]);
+        solve(answer,index+1,ds,nums);
+        ds.pop_back(); //backtrack
+        //exclude
+        solve(answer,index+1,ds,nums);
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> res;
-        vector<int> subset;
-        createSubset(nums, 0, res, subset);
-        return res;        
-    } 
+        vector<vector<int>> answer;
+        vector<int> ds;
+        solve(answer,0,ds,nums);
+        return answer;
+    }
 };
