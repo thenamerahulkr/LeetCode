@@ -1,15 +1,14 @@
 class Solution {
+private: 
+    int ways_to_climb(int n, vector<int> &dp){
+        if(n <= 2) return n;
+        if(dp[n] != -1) return dp[n];
+        dp[n] = ways_to_climb(n - 1,dp) + ways_to_climb(n - 2,dp);  
+        return dp[n];
+    }
 public:
     int climbStairs(int n) {
-        if (n == 0 || n == 1) {
-            return 1;
-        }
-        int prev = 1, curr = 1;
-        for (int i = 2; i <= n; i++) {
-            int temp = curr;
-            curr = prev + curr;
-            prev = temp;
-        }
-        return curr;
+        vector<int> dp(n+1, -1);
+        return ways_to_climb(n,dp);
     }
 };
