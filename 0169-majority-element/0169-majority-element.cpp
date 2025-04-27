@@ -12,7 +12,6 @@ public:
                 
                 counter++;
             }else{
-                majority_element = it;
                 counter--;
             }
         }
