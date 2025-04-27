@@ -1,20 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-    //         brute force method
-//         for(int i=0;i<nums.size();i++){
-//             int count=1;
-//             for(int j=i+1;j<nums.size();j++){
-//                 if(nums[i]==nums[j]){
-//                     count++;
-//                 }
-//             }
-//             if(count>nums.size()/2)
-//                 return nums[i];
+        int n = nums.size();
+        int majority_element = nums[0];
+        int counter = 0;
+        for(int &it : nums){
+            if(counter == 0){
+                majority_element = it;
+            }
+            if(it == majority_element){
                 
-//         }
-//         return -1;
-        sort(nums.begin(),nums.end());
-        return nums[nums.size()/2];
+                counter++;
+            }else{
+                majority_element = it;
+                counter--;
+            }
+        }
+        return majority_element;
     }
 };
