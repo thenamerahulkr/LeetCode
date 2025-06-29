@@ -11,14 +11,13 @@ public:
                 charSet.insert(s[right]);
                 maxLength = max(maxLength, right - left + 1);
             } else {
-                while (charSet.count(s[right])) {
+                while(charSet.count(s[right])) {
                     charSet.erase(s[left]);
                     left++;
                 }
                 charSet.insert(s[right]);
             }
         }
-        
         return maxLength;
     }
 };
