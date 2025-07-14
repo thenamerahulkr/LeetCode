@@ -11,7 +11,7 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        vector<int> arr;
+         vector<int> arr;
         int count=0;
         ListNode *curr=head;
         while(curr!=NULL){
