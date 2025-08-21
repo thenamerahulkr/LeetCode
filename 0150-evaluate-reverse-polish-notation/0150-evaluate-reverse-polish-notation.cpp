@@ -1,18 +1,10 @@
 class Solution {
 public:
     int solve(int a, int b, string token){
-        if(token == "+"){
-            return a+b;
-        }
-        if(token == "-"){
-            return b-a;
-        }
-        if(token == "*"){
-            return a*b;
-        }
-        if(token == "/"){
-            return b/a;
-        }
+        if(token == "+") return a+b;
+        if(token == "-") return b-a;
+        if(token == "*") return a*b;
+        if(token == "/") return b/a;
         return -1;
     }
     int evalRPN(vector<string>& tokens) {
