@@ -6,12 +6,10 @@ public:
         bool l = evaluateTree(root->left);
         bool r = evaluateTree(root->right);
         if(root->val == 3){
-            if(l and r) return true;
-            else return false;
+            return l and r;
         }
         if(root->val == 2){
-            if(l or r) return true;
-            else return false;
+            return l or r;
         }
         return false;
     }
