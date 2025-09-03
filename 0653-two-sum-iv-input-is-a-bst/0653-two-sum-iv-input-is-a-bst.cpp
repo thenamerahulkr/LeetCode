@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-    bool BFS(TreeNode* temp, int k, set<int>& st){
+    bool BFS(TreeNode* temp, int k, unordered_set<int>& st){
         queue<TreeNode*> q;
         q.push(temp);
         
@@ -36,7 +36,7 @@ class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
         if(!root->left and !root->right) return false;
-        set<int> st;
+        unordered_set<int> st;
         return BFS(root, k, st);
     }
 };
