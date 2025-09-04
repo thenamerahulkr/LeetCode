@@ -1,19 +1,22 @@
 class Solution {
-private:
-    int solve(vector<int>& nums, int index){
+    // int ans = 0;
+    vector<int> dp;
+    int helper(vector<int>& nums, int index, vector<int>& dp){
         // base case 
-        if(index == 0) return nums[0];
-        if(index == 1) return max(nums[0],nums[1]);
-        if(index < 0)  return 0;
-        // take 
-        int loot = nums[index] + solve(nums,index-2);
-        // not take
-        int not_loot = 0 + solve(nums, index-1);
-        return max(not_loot,loot);
+        if(index >= nums.size()){
+            return 0;
+        }
+        if(dp[index] != -1) return dp[index];
+        int churaya = nums[index] + helper(nums, index + 2, dp);
+        int ni_churaya = helper(nums, index + 1, dp);
+        dp[index] = max(churaya, ni_churaya);
+        return dp[index];
     }
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        return solve(nums,n-1);
+        dp.clear();
+        dp.resize(nums.size()+1, -1);
+
+        return helper(nums, 0, dp);
     }
 };
