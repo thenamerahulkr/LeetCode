@@ -10,7 +10,6 @@ public:
             }
             else str += s[i];
         }
-        // cout<<str;
         return str;
     }
 };
