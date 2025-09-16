@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Queue
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
@@ -83,6 +86,7 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thenamerahulkr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -186,4 +190,12 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
