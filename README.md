@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thenamerahulkr/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/thenamerahulkr/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
@@ -43,6 +44,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thenamerahulkr/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thenamerahulkr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -144,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thenamerahulkr/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
