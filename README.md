@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/thenamerahulkr/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/thenamerahulkr/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -152,6 +153,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/thenamerahulkr/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -167,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thenamerahulkr/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Linked List
