@@ -25,6 +25,7 @@
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 <!---LeetCode Topics End-->
