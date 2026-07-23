@@ -5,8 +5,6 @@ public:
         vector<int> ans(n, -1);
         for (int i = 0; i < n; i++) {
            bool found = false;
-
-            // Current element ke right side mein search
             for (int j = i + 1; j < n; j++) {
                 if (nums[j] > nums[i]) {
                     ans[i] = nums[j];
@@ -14,8 +12,6 @@ public:
                     break;
                 }
             }
-
-            // Right side mein nahi mila, tab beginning se search
             if (!found) {
                 for (int j = 0; j < i; j++) {
                     if (nums[j] > nums[i]) {
