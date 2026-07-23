@@ -32,7 +32,6 @@ private:
         stack<int> st;
 
         for (int i = 0; i < n; i++) {
-            // Use < to find strictly smaller elements
             while (!st.empty() && arr[st.top()] >= arr[i]) {
                 st.pop();
             }
@@ -47,7 +46,6 @@ private:
         stack<int> st;
 
         for (int i = n - 1; i >= 0; i--) {
-            // Use <= to prevent double-counting duplicate elements
             while (!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
             }
