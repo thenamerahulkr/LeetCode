@@ -2,27 +2,28 @@ class Solution {
 public:
     string removeKdigits(string num, int k) {
         int n = num.size();
+        deque<char> dq;
         // if(k == n) return "0";
         string ans = "";
         stack<char> st;
         for (int i = 0; i < n; i++) {
             char ch = num[i];
-            while (!st.empty() and st.top() > ch and k > 0) {
-                st.pop();
+            while (!dq.empty() and dq.back() > ch and k > 0) {
+                dq.pop_back();
                 k--;
             }
-            if (st.size() == 0 and ch == '0') continue;
-            st.push(ch);
+            if (dq.size() == 0 and ch == '0') continue;
+            dq.push_back(ch);
         }
-        while (!st.empty() && k > 0) {
-            st.pop();
+        while (!dq.empty() && k > 0) {
+            dq.pop_back();
             k--;
         }
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
+        while(!dq.empty()){
+            ans.push_back(dq.front());
+            dq.pop_front();
         }
-        reverse(ans.begin(), ans.end());
+        // reverse(ans.begin(), ans.end());
         if(ans.length() == 0) return "0";
         return ans;
     }
