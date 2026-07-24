@@ -9,9 +9,7 @@ public:
                 ans.pop_back();
                 k--;
             }
-            if (ans.length() == 0 and ch == '0')
-                continue;
-
+            if (ans.length() == 0 and ch == '0') continue;
             ans.push_back(ch);
         }
         while (!ans.empty() && k > 0) {
