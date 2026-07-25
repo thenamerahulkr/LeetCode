@@ -16,6 +16,7 @@
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -63,6 +64,7 @@
 | [0402-remove-k-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thenamerahulkr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thenamerahulkr/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -72,6 +74,7 @@
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -198,6 +201,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thenamerahulkr/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -271,4 +275,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
