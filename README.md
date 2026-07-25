@@ -140,6 +140,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thenamerahulkr/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,12 +214,14 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thenamerahulkr/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thenamerahulkr/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thenamerahulkr/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
