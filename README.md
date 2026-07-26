@@ -19,6 +19,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -70,6 +71,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thenamerahulkr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thenamerahulkr/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -83,6 +85,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
