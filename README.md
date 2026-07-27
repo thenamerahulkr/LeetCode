@@ -68,6 +68,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/thenamerahulkr/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -324,4 +325,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/thenamerahulkr/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
