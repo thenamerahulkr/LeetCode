@@ -23,15 +23,15 @@ public:
         // isko binary search se kro  ab 
         // array sort kro pehle
         int n = nums.size();
-        sort(nums.begin(),nums.end());
-        for (int i = 0; i <= n; i++) {
+        sort(nums.begin(),nums.end()); // n longn
+        for (int i = 0; i <= n; i++) { // n
             // int count = 0;
             //  for (int num : nums) {
             //     if (num >= i) {
             //         count++;
             //     }
             // }
-            int count = bs(nums,i);
+            int count = bs(nums,i); // log(i);
             
             if (count == i) return i;
         }
