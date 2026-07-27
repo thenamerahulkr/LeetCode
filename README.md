@@ -18,6 +18,7 @@
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -88,6 +89,7 @@
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -112,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
