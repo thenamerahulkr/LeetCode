@@ -20,6 +20,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/thenamerahulkr/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -93,6 +95,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
