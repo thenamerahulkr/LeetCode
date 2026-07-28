@@ -39,6 +39,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/thenamerahulkr/LeetCode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -80,6 +81,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/thenamerahulkr/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/thenamerahulkr/LeetCode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -114,6 +116,7 @@
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -236,6 +239,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
