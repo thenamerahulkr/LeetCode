@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thenamerahulkr/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -72,6 +73,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/thenamerahulkr/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -129,6 +131,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -338,6 +341,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
