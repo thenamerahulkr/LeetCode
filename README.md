@@ -36,6 +36,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thenamerahulkr/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -106,6 +107,7 @@
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thenamerahulkr/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -124,6 +126,7 @@
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thenamerahulkr/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
