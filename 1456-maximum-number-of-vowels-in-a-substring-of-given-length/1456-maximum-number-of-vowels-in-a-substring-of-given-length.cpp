@@ -18,20 +18,16 @@ public:
         max_vowels = max(count, max_vowels);
 
         while(right < n){
-            int left = right - k;
-
-            // Remove outgoing character
             if (isVowel(s[left])) {
                 count--;
+                
             }
-
-            // Add incoming character
             if (isVowel(s[right])) {
                 count++;
             }
-
             max_vowels = max(max_vowels, count);
             right++;
+            left++;
         }
         return max_vowels;
     }
