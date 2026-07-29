@@ -45,6 +45,7 @@
 | [2594-minimum-time-to-repair-cars](https://github.com/thenamerahulkr/LeetCode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -70,6 +71,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -143,6 +145,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3483-alternating-groups-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/3483-alternating-groups-ii) |
