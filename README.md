@@ -46,6 +46,7 @@
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -68,6 +69,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
@@ -137,6 +139,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3483-alternating-groups-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
