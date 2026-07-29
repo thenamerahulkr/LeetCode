@@ -20,7 +20,6 @@ public:
         while(right < n){
             if (isVowel(s[left])) {
                 count--;
-                
             }
             if (isVowel(s[right])) {
                 count++;
