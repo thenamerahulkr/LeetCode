@@ -114,6 +114,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -285,6 +287,7 @@
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thenamerahulkr/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
