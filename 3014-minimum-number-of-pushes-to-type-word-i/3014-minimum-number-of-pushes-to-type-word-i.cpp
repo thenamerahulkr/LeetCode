@@ -1,7 +1,7 @@
+map<char, int> mp;
 class Solution {
 public:
     int minimumPushes(string word) {
-        int min = 0;
         int n = word.length();
         if(n <= 8) return n;
         else if(n <= 16 and n > 8) return 8 + (n-8) * 2;
