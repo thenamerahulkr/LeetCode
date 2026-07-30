@@ -11,7 +11,6 @@ public:
     }
     int minimizedMaximum(int n, vector<int>& quantities) {
         int sz = quantities.size();
-        
         int low = 1, high = *max_element(quantities.begin(), quantities.end());
         int answer = high;
         while(low <= high){
