@@ -29,6 +29,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/thenamerahulkr/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/thenamerahulkr/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -95,6 +96,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/thenamerahulkr/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/thenamerahulkr/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -110,6 +112,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thenamerahulkr/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/thenamerahulkr/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thenamerahulkr/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
