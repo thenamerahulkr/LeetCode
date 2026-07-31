@@ -81,6 +81,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -122,6 +123,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/thenamerahulkr/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -197,6 +200,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -230,6 +234,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
