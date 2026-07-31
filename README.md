@@ -41,6 +41,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thenamerahulkr/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/thenamerahulkr/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2364-count-number-of-bad-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenamerahulkr/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -74,6 +75,7 @@
 | [1695-maximum-erasure-value](https://github.com/thenamerahulkr/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2364-count-number-of-bad-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenamerahulkr/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -233,6 +235,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/thenamerahulkr/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2364-count-number-of-bad-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/thenamerahulkr/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -300,6 +303,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thenamerahulkr/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2364-count-number-of-bad-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
