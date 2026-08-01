@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/thenamerahulkr/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
