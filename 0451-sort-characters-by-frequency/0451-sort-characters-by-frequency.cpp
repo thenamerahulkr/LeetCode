@@ -13,12 +13,15 @@ public:
             pq.push({f,ch});
         }
         string answer = "";
-        // now on heap 
+        // while heap is not empty we take freq and char and append back to the string
         while(pq.size()){
             int freq = pq.top().first;
             char ch = pq.top().second;
             pq.pop();
-            answer.append(freq,ch);
+            // answer.append(freq,ch);
+            for(int i = 0; i < freq; i++){
+                answer.push_back(ch);
+            }
         }
         return answer;
     }
