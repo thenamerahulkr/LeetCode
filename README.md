@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thenamerahulkr/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/thenamerahulkr/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -261,6 +262,7 @@
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -279,6 +281,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -383,6 +386,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -421,6 +425,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
