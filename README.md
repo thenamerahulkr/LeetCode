@@ -19,6 +19,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -315,6 +316,7 @@
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thenamerahulkr/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -357,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -401,6 +404,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
