@@ -4,7 +4,7 @@ public:
     vector<int> rank;
     DSU(int n) {
         parent.resize(n);
-        rank.resize(n, 0);
+        rank.resize(n, 1);
         for (int i = 0; i < n; i++) {
             parent[i] = i;
         }
