@@ -69,6 +69,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
