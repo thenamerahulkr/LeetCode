@@ -1,10 +1,10 @@
 class DSU {
 public:
     vector<int> parent;
-    vector<int> rank;
+    vector<int> size;
     DSU(int n) {
         parent.resize(n);
-        rank.resize(n, 1);
+        size.resize(n, 1);
         for (int i = 0; i < n; i++) {
             parent[i] = i;
         }
@@ -25,16 +25,16 @@ public:
         int py = find_by_pc(y);
         if (px == py)
             return;
-        if (rank[px] > rank[py]) {
+        if (size[px] > size[py]) {
             // papa x banega
             parent[py] = px;
-        } else if (rank[py] > rank[px]) {
+        } else if (size[py] > size[px]) {
             // py root/papa banega
             parent[px] = py;
         } else {
             // Dono ki rank same hai, kisi ko bhi parent bana sakte hain
             parent[py] = px;
-            rank[px]++;
+            size[px]++;
         }
     }
 };
