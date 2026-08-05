@@ -274,6 +274,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -298,6 +299,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -451,6 +453,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -460,6 +463,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
