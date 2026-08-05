@@ -1,7 +1,6 @@
 class Solution {
 public:
-    void DFS(int start_node, vector<vector<int>>& adj,
-             vector<bool>& suspicious) {
+    void DFS(int start_node, vector<vector<int>>& adj,vector<bool>& suspicious) {
         suspicious[start_node] = true;
         for (auto& neighbour : adj[start_node]) {
             if (!suspicious[neighbour]) {
@@ -9,8 +8,7 @@ public:
             }
         }
     }
-    vector<int> remainingMethods(int n, int k,
-                                 vector<vector<int>>& invocations) {
+    vector<int> remainingMethods(int n, int k,vector<vector<int>>& invocations) {
         vector<vector<int>> adj(n);
         for (auto& edge : invocations) {
             int u = edge[0];
