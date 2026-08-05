@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -208,6 +209,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thenamerahulkr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thenamerahulkr/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thenamerahulkr/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenamerahulkr/LeetCode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -456,6 +458,7 @@
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -465,6 +468,7 @@
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
