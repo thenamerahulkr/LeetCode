@@ -51,7 +51,7 @@ public:
            char ch1 = equations[i][0];
             char ch2 = equations[i][3];
             if(equations[i][1] == '!' and equations[i][2] == '='){
-                // union
+
                 int u = ch1 - 'a';
                 int v = ch2 - 'a';
                 int pu = dsu.find(u);
