@@ -6,7 +6,6 @@ public:
     DSU(int n) {
         parent.resize(n);
         rank.resize(n, 1);
-
         for (int i = 0; i < n; i++) {
             parent[i] = i;
         }
@@ -24,7 +23,6 @@ public:
         if (parentU == parentV) {
             return;
         }
-
         if (rank[parentU] < rank[parentV]) {
             parent[parentU] = parentV;
         }
