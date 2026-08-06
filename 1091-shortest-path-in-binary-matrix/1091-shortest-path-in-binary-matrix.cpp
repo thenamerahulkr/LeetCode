@@ -1,49 +1,54 @@
 class Solution {
 public:
+    int dr[8] = {-1,-1,-1,0,0,1,1,1};
+    int dc[8] = {-1,0,1,-1,1,-1,0,1};
+
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        if(grid[0][0] != 0) return -1;
+
         int n = grid.size();
 
-        // Start ya end blocked hai
         if (grid[0][0] == 1 || grid[n-1][n-1] == 1)
             return -1;
 
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
-
         queue<pair<int,int>> q;
+        vector<vector<bool>> vis(n, vector<bool>(n, false));
 
-        dist[0][0] = 1;
         q.push({0,0});
+        vis[0][0] = true;
 
-        int dr[8] = {-1,-1,-1,0,0,1,1,1};
-        int dc[8] = {-1,0,1,-1,1,-1,0,1};
+        int path = 1;
 
-        while(!q.empty()){
+        while (!q.empty()) {
 
-            auto [r,c] = q.front();
-            q.pop();
+            int size = q.size();
 
-            // Destination reached
-            if(r == n-1 && c == n-1)
-                return dist[r][c];
+            while (size--) {
 
-            for(int k = 0; k < 8; k++){
+                auto [r,c] = q.front();
+                q.pop();
 
-                int nr = r + dr[k];
-                int nc = c + dc[k];
+                // Destination reached
+                if (r == n-1 && c == n-1)
+                    return path;
 
-                if(nr < 0 || nr >= n ||
-                   nc < 0 || nc >= n)
-                    continue;
+                for (int k = 0; k < 8; k++) {
 
-                if(grid[nr][nc] == 0 &&
-                   dist[nr][nc] > dist[r][c] + 1){
+                    int nr = r + dr[k];
+                    int nc = c + dc[k];
 
-                    dist[nr][nc] = dist[r][c] + 1;
+                    if (nr < 0 || nr >= n ||
+                        nc < 0 || nc >= n)
+                        continue;
 
-                    q.push({nr,nc});
+                    if (!vis[nr][nc] && grid[nr][nc] == 0) {
+
+                        vis[nr][nc] = true;
+                        q.push({nr,nc});
+                    }
                 }
             }
+
+            path++;
         }
 
         return -1;
