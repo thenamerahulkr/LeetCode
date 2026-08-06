@@ -4,7 +4,6 @@ public:
     int dx[4] = {1, -1, 0, 0};
     int dy[4] = {0, 0, 1, -1};
     int bfs(queue<p>& q, vector<vector<int>>& grid, int& fresh) {
-
         int minutes = 0;
         int m = grid.size();
         int n = grid[0].size();
