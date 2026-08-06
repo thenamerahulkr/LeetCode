@@ -28,15 +28,37 @@ public:
             }
         }
     }
+    void dfs(vector<vector<int>>& image, int sr, int sc, int newColor,
+             int oldColor){
+                int n = image.size();
+    int m = image[0].size();
+        image[sr][sc] = newColor;
+
+        for (int k = 0; k < 4; k++) {
+
+                int nr = sr + dr[k];
+                int nc = sc + dc[k];
+
+                if (nr < 0 || nr >= n || nc < 0 || nc >= m)
+                    continue;
+
+                if (image[nr][nc] == oldColor) {
+
+                    dfs(image,nr, nc, newColor, oldColor);
+                }
+            }
+                
+
+    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
                                   int new_color) {
         // we have given a matrix and we have to do bfs or dfs normal wala
        
 
         int old_color = image[sr][sc];
-         if (old_color == new_color)
+        if (old_color == new_color)
         return image;
-        bfs(image, sr, sc, new_color, old_color);
+        dfs(image, sr, sc, new_color, old_color);
         return image;
     }
 };
