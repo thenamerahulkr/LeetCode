@@ -32,11 +32,9 @@ public:
 
         if (rank[parentU] < rank[parentV]) {
             parent[parentU] = parentV;
-        }
-        else if (rank[parentU] > rank[parentV]) {
+        } else if (rank[parentU] > rank[parentV]) {
             parent[parentV] = parentU;
-        }
-        else {
+        } else {
             parent[parentV] = parentU;
             rank[parentU]++;
         }
@@ -62,6 +60,16 @@ void bfs(int start, vector<vector<int>>& adj, vector<bool>& vis) {
         }
     }
 }
+void dfs(int start, vector<vector<int>>& adj, vector<bool>& vis) {
+    vis[start] = true;
+    for (int neighbour : adj[start]) {
+        if (!vis[neighbour]) {
+            vis[neighbour] = true;
+            dfs(neighbour, adj, vis);
+        }
+    }
+}
+
 class Solution {
 public:
     bool isSimilar(const string& str1, const string& str2) {
@@ -81,13 +89,12 @@ public:
         return diff == 0 || diff == 2;
     }
 
-
     int numSimilarGroups(vector<string>& strs) {
         int n = strs.size();
 
         // DSU dsu(n);
         // int components = n;
-        // 
+        //
         // // Har string ko baaki sabhi strings se compare karo
         // for (int i = 0; i < n - 1; i++) {
         //     for (int j = i + 1; j < n; j++) {
@@ -115,9 +122,9 @@ public:
         }
         int count = 0;
         vector<bool> visited(n, false);
-        for(int i = 0; i < n; i++){
-            if(!visited[i]){
-                bfs(i, adj, visited);
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                dfs(i, adj, visited);
                 count++;
             }
         }
