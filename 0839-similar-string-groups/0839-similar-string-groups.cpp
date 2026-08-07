@@ -44,7 +44,24 @@ public:
         return true;
     }
 };
+void bfs(int start, vector<vector<int>>& adj, vector<bool>& vis) {
+    queue<int> q;
 
+    q.push(start);
+    vis[start] = true;
+
+    while (!q.empty()) {
+        int node = q.front();
+        q.pop();
+
+        for (int neighbour : adj[node]) {
+            if (!vis[neighbour]) {
+                vis[neighbour] = true;
+                q.push(neighbour);
+            }
+        }
+    }
+}
 class Solution {
 public:
     bool isSimilar(const string& str1, const string& str2) {
@@ -64,26 +81,47 @@ public:
         return diff == 0 || diff == 2;
     }
 
+
     int numSimilarGroups(vector<string>& strs) {
         int n = strs.size();
 
-        DSU dsu(n);
-        int components = n;
+        // DSU dsu(n);
+        // int components = n;
+        // 
+        // // Har string ko baaki sabhi strings se compare karo
+        // for (int i = 0; i < n - 1; i++) {
+        //     for (int j = i + 1; j < n; j++) {
 
-        // Har string ko baaki sabhi strings se compare karo
+        //         if (isSimilar(strs[i], strs[j])) {
+
+        //             // Different components the, isliye merge hua
+        //             if (dsu.unionByRank(i, j)) {
+        //                 components--;
+        //             }
+        //         }
+        //     }
+        // }
+        vector<vector<int>> adj(n);
         for (int i = 0; i < n - 1; i++) {
             for (int j = i + 1; j < n; j++) {
 
                 if (isSimilar(strs[i], strs[j])) {
-
-                    // Different components the, isliye merge hua
-                    if (dsu.unionByRank(i, j)) {
-                        components--;
-                    }
+                    int u = i;
+                    int v = j;
+                    adj[u].push_back(v);
+                    adj[v].push_back(u);
                 }
             }
         }
-
-        return components;
+        int count = 0;
+        vector<bool> visited(n, false);
+        for(int i = 0; i < n; i++){
+            if(!visited[i]){
+                bfs(i, adj, visited);
+                count++;
+            }
+        }
+        return count;
+        // return components;
     }
 };
