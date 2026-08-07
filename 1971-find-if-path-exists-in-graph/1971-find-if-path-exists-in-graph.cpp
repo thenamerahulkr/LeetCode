@@ -58,6 +58,19 @@ public:
             }
         }
     }
+    void dfs(int start, vector<vector<int>>& adj, vector<bool>& visited) {
+
+        visited[start] = true;
+        // visit all neighbours of current node
+        for (auto neighbour : adj[start]) {
+
+            if (!visited[neighbour]) {
+                visited[neighbour] = true;
+                dfs(neighbour, adj, visited);
+            }
+        }
+    }
+
     bool validPath(int n, vector<vector<int>>& edges, int source,
                    int destination) {
         // DSU dsu(n);
@@ -87,7 +100,7 @@ public:
         // hai ! if 1 hai to true ni to false;
         vector<bool> visited(n, false);
 
-        bfs(source, adj, visited);
+        dfs(source, adj, visited);
 
         return visited[destination];
     }
