@@ -30,6 +30,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thenamerahulkr/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/thenamerahulkr/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -115,6 +116,7 @@
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenamerahulkr/LeetCode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thenamerahulkr/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/thenamerahulkr/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
