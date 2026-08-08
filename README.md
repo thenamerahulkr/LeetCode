@@ -223,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/thenamerahulkr/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/thenamerahulkr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -354,6 +355,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/thenamerahulkr/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -363,6 +365,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0412-fizz-buzz](https://github.com/thenamerahulkr/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/thenamerahulkr/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
