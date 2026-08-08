@@ -23,5 +23,12 @@ public:
             }
         }
         return left;
+        set<int> st(nums.begin(), nums.end());
+        int i = 0;
+        // int i = 0;
+        for (int val : st) {
+            nums[i++] = val;
+        }
+        return st.size();
     }
 };
