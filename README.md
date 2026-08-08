@@ -33,6 +33,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/thenamerahulkr/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/thenamerahulkr/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -113,6 +114,7 @@
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenamerahulkr/LeetCode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/thenamerahulkr/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -153,6 +155,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/thenamerahulkr/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
