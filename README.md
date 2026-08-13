@@ -53,6 +53,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/thenamerahulkr/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/thenamerahulkr/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -221,6 +222,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/thenamerahulkr/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/thenamerahulkr/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/thenamerahulkr/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thenamerahulkr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -473,6 +476,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/thenamerahulkr/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/thenamerahulkr/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
