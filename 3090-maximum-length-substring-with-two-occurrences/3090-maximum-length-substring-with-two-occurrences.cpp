@@ -1,19 +1,29 @@
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        unordered_map<char, int> freq;
         int n = s.length();
-        int left = 0, right = 0;
         int max_len = 0;
-        while(right < n){
-            freq[s[right]]++;
-            while(freq[s[right]] > 2){
-                freq[s[left]]--;
-                left++;
+
+        for (int i = 0; i < n; ++i) {
+            vector<int> freq(26, 0);
+            for (int j = i; j < n; ++j) {
+                freq[s[j] - 'a']++;
+                
+                // If frequency exceeds 2, no valid substring can start at 'i' and extend past 'j'
+                if (freq[s[j] - 'a'] > 2) {
+                    break;
+                }
+                
+                max_len = max(max_len, j - i + 1);
             }
-            max_len = max(max_len, right - left + 1);
-            right++;
         }
+
         return max_len;
     }
 };
