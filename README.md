@@ -27,6 +27,7 @@
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/thenamerahulkr/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -96,6 +97,7 @@
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/thenamerahulkr/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/thenamerahulkr/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -198,6 +200,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/thenamerahulkr/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenamerahulkr/LeetCode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenamerahulkr/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -287,6 +290,7 @@
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/thenamerahulkr/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1704-determine-if-string-halves-are-alike](https://github.com/thenamerahulkr/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
