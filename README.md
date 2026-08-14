@@ -111,6 +111,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/thenamerahulkr/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -208,6 +209,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/thenamerahulkr/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-alternating-groups-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -251,6 +253,7 @@
 | [2727-number-of-senior-citizens](https://github.com/thenamerahulkr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/thenamerahulkr/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thenamerahulkr/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
