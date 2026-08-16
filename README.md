@@ -89,6 +89,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +295,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/thenamerahulkr/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3834-merge-adjacent-equal-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
