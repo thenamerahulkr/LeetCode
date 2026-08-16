@@ -222,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -323,6 +324,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/thenamerahulkr/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -350,6 +352,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/thenamerahulkr/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -544,6 +547,7 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/thenamerahulkr/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -604,4 +608,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
