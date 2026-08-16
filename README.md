@@ -89,6 +89,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/thenamerahulkr/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/thenamerahulkr/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -449,6 +450,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3833-count-dominant-indices](https://github.com/thenamerahulkr/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
