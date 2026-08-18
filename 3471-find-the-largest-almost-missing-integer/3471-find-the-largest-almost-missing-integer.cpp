@@ -1,7 +1,3 @@
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
-
 class Solution {
 public:
     int largestInteger(std::vector<int>& nums, int k) {
