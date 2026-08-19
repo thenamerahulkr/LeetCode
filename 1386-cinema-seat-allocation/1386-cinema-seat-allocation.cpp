@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, std::vector<std::vector<int>>& reservedSeats) {
-        unordered_map<int, std::unordered_set<int>> reservedMap;
+        unordered_map<int,unordered_set<int>> reservedMap;
 
         for (const auto& seat : reservedSeats) {
             reservedMap[seat[0]].insert(seat[1]);
