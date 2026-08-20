@@ -82,6 +82,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/thenamerahulkr/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -401,6 +402,7 @@
 | [1642-water-bottles](https://github.com/thenamerahulkr/LeetCode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thenamerahulkr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
