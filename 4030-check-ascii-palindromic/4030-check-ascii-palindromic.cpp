@@ -3,7 +3,6 @@ public:
     bool check(string& binaryStr){
         int left = 0;
         int right = binaryStr.length() - 1;
-
         while (left < right) {
             if (binaryStr[left] != binaryStr[right]) {
                 return false;
