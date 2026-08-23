@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/thenamerahulkr/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/thenamerahulkr/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/thenamerahulkr/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -101,6 +102,7 @@
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
