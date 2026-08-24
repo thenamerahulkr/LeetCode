@@ -1,42 +1,41 @@
 class Solution {
 public:
-    bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        int m = grid.size();
-        int n = grid[0].size();
+    int m, n;
+    vector<vector<int>> best;
 
-        // dist[i][j] = minimum health loss to reach (i,j)
-        vector<vector<int>> dist(
-            m, vector<int>(n, INT_MAX)
-        );
-        queue<pair<int,int>> q;
+    int dx[4] = {-1, 1, 0, 0};
+    int dy[4] = {0, 0, -1, 1};
 
-        dist[0][0] = grid[0][0];
-        q.push({0, 0});
+    void dfs(vector<vector<int>>& grid, int x, int y, int cost) {
 
-        int dx[] = {-1, 1, 0, 0};
-        int dy[] = {0, 0, -1, 1};
+        // Already found a better/equal path
+        if (cost >= best[x][y])
+            return;
 
-        while (!q.empty()) {
-            auto [x, y] = q.front();
-            q.pop();
+        best[x][y] = cost;
 
-            for (int d = 0; d < 4; d++) {
-                int nx = x + dx[d];
-                int ny = y + dy[d];
+        for (int d = 0; d < 4; d++) {
+            int nx = x + dx[d];
+            int ny = y + dy[d];
 
-                if (nx < 0 || nx >= m || ny < 0 || ny >= n)
-                    continue;
+            if (nx < 0 || nx >= m || ny < 0 || ny >= n)
+                continue;
 
-                int newCost = dist[x][y] + grid[nx][ny];
+            int newCost = cost + grid[nx][ny];
 
-                // Better path found
-                if (newCost < dist[nx][ny]) {
-                    dist[nx][ny] = newCost;
-                    q.push({nx, ny});
-                }
-            }
+            dfs(grid, nx, ny, newCost);
         }
+    }
 
-        return dist[m-1][n-1] < health;
+    bool findSafeWalk(vector<vector<int>>& grid, int health) {
+
+        m = grid.size();
+        n = grid[0].size();
+
+        best.assign(m, vector<int>(n, INT_MAX));
+
+        dfs(grid, 0, 0, grid[0][0]);
+
+        return best[m - 1][n - 1] < health;
     }
 };
