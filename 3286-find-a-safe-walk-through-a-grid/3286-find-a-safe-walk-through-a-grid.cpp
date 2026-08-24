@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-
         int m = grid.size();
         int n = grid[0].size();
 
@@ -31,9 +30,9 @@ public:
             int x = pos.first;
             int y = pos.second;
 
-            // stale entry
-            if (cost > dist[x][y])
-                continue;
+            // // stale entry
+            // if (cost > dist[x][y])
+            //     continue;
 
             // reached destination
             if (x == m - 1 && y == n - 1)
