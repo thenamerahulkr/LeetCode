@@ -86,6 +86,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thenamerahulkr/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thenamerahulkr/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/thenamerahulkr/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-alternating-groups-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -242,6 +243,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +380,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/thenamerahulkr/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/thenamerahulkr/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -511,6 +514,7 @@
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/thenamerahulkr/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,6 +584,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/thenamerahulkr/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -641,6 +646,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
