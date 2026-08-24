@@ -46,6 +46,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thenamerahulkr/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/thenamerahulkr/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -145,6 +146,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/thenamerahulkr/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/thenamerahulkr/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -240,6 +242,7 @@
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2868-continuous-subarrays](https://github.com/thenamerahulkr/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -347,6 +350,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/thenamerahulkr/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -377,6 +381,7 @@
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/thenamerahulkr/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -513,6 +518,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/thenamerahulkr/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Segment Tree
@@ -570,6 +576,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/thenamerahulkr/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Graph Theory
@@ -651,4 +658,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
