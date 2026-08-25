@@ -12,3 +12,5 @@ public:
         solve(i, j, s);
     }
 };
+
+/* time complexity will be O(n) and we are visiting each element only once*/ 
