@@ -17,27 +17,33 @@ public:
 
         return st.empty();
     }
-    void solve(vector<string>& ans, string& temp, int n){
-        // base case 
-        if(temp.size() == 2 * n){
-            if(isValid(temp)){
+    void solve(vector<string>& ans, string& temp, int n, int countClose,
+               int countOpen) {
+        // base case
+        if (temp.size() == 2 * n) {
+            if (isValid(temp)) {
                 ans.push_back(temp);
-               
             }
-             return;
+            return;
         }
-        temp.push_back(')');
-        solve(ans, temp, n);
-        temp.pop_back();
-        
-        temp.push_back('(');
-        solve(ans, temp, n);
-        temp.pop_back(); 
+        if (countOpen < n) {
+            temp.push_back('(');
+            solve(ans, temp, n, countClose, countOpen + 1);
+            temp.pop_back();
+        }
+
+        if (countClose < countOpen) {
+            temp.push_back(')');
+            solve(ans, temp, n, countClose + 1, countOpen);
+            temp.pop_back();
+        }
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
         string temp = "";
-        solve(ans,temp,n);
+        int countOpen = 0;
+        int countClose = 0;
+        solve(ans, temp, n, countOpen, countClose);
         return ans;
     }
 };
