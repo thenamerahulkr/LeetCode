@@ -262,6 +262,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/thenamerahulkr/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/thenamerahulkr/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0344-reverse-string](https://github.com/thenamerahulkr/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -294,6 +295,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/thenamerahulkr/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/thenamerahulkr/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/thenamerahulkr/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
@@ -482,6 +484,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/thenamerahulkr/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -683,4 +686,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/thenamerahulkr/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/thenamerahulkr/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
