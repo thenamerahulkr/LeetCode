@@ -21,7 +21,7 @@ public:
                int countOpen) {
         // base case
         if (temp.size() == 2 * n) {
-            if (isValid(temp)) {
+            if (countOpen == countClose) {
                 ans.push_back(temp);
             }
             return;
