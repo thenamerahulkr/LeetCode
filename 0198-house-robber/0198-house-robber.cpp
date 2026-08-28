@@ -12,7 +12,7 @@ public:
     //     dp[index] = max(churaya, ni_churaya);
     //     return dp[index];
     // }
-    int rob(vector<int>& nums) {
+    int tabulate_unoptimized(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n + 2);
 
@@ -25,5 +25,8 @@ public:
             dp[i] = max(churaya, ni_churaya);
         }
         return dp[0];
+    }
+    int rob(vector<int>& nums) {
+        return tabulate_unoptimized(nums);
     }
 };
