@@ -12,7 +12,7 @@ public:
     //     dp[index] = max(churaya, ni_churaya);
     //     return dp[index];
     // }
-    int tabulate_unoptimized(vector<int>& nums) {
+    int tabulateWithoutSpaceOpt(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n + 2);
 
@@ -27,6 +27,6 @@ public:
         return dp[0];
     }
     int rob(vector<int>& nums) {
-        return tabulate_unoptimized(nums);
+        return tabulateWithoutSpaceOpt(nums);
     }
 };
