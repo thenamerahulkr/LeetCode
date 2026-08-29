@@ -1,26 +1,30 @@
 class Solution {
-private: 
-    bool solve(vector<int>& nums, int target, int index,vector<vector<int>> &dp){
-        // base case 
-        if(target ==0 )return true;
-        if(index == 0 ){
-            return target == nums[0];
-        }
-        //not take
-        if(dp[index][target] != -1)return dp[index][target];
-        bool not_take = solve(nums,target,index-1,dp);
-        bool take = false;
-        if(nums[index]<=target){
-            take = solve(nums, target-nums[index],index-1,dp);
-        }
-        dp[index][target]= not_take or take;
-        return dp[index][target];
-    }
 public:
+    bool solveWithMemo(vector<int>& nums, int i, int target, int n, vector<vector<int>>& dp) {
+        // base case likho
+        if (target == 0)
+            return true;
+        if (i == 0 and target != 0)
+            return false;
+        if (i == 0 and target == 0)
+            return true;
+        if (dp[i][target] != -1)
+            return dp[i][target];
+        // we have two choice either take that nums[i] or skip that
+        bool take = false;
+        if (target >= nums[i]) {
+            take = solveWithMemo(nums, i - 1, target - nums[i], n, dp);
+        }
+        bool skip = solveWithMemo(nums, i - 1, target, n, dp);
+        return dp[i][target] = take or skip;
+    }
     bool canPartition(vector<int>& nums) {
-        int sum = accumulate(nums.begin(),nums.end(),0);
-        if(sum%2 != 0) return false;
-        vector<vector<int>> dp(205,vector<int>(sum/2+1,-1));
-        return solve(nums,sum/2,nums.size()-1,dp);
+        int n = nums.size();
+        int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        if (totalSum % 2 != 0)
+            return false;
+        int target = totalSum / 2;
+        vector<vector<int>> dp(n + 1, vector<int>(target + 1,-1));
+        return solveWithMemo(nums, n - 1, target, n, dp);
     }
 };
