@@ -22,6 +22,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/thenamerahulkr/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/thenamerahulkr/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -147,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/thenamerahulkr/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -502,6 +504,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenamerahulkr/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/thenamerahulkr/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -718,4 +721,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
