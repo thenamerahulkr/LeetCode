@@ -1,25 +1,31 @@
 class Solution {
-private:
-    void makeCombination(vector<int>& arr, int target, int idx, vector<int>& ds, int total, vector<vector<int>>& res) {
-        int n = arr.size();
-        if(total == target) {
-            res.push_back(ds);
-            return;
-        }
-        if(idx > n and target != total) return;
-        if(total > target || idx >= arr.size()) {
-            return;
-        }
-        ds.push_back(arr[idx]);
-        makeCombination(arr, target, idx, ds, total + arr[idx], res);
-        ds.pop_back();
-        makeCombination(arr, target, idx + 1, ds, total, res);
-    }   
 public:
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
-        vector<vector<int>> res;
-        vector<int> ds;
-        makeCombination(arr, target, 0, ds, 0, res);
-        return res;    
+    void solve(int index, vector<int>& candidates, int target,
+               vector<int>& temp, vector<vector<int>>& ans) {
+        if (target == 0) {
+            ans.push_back(temp);
+            return;
+        }
+
+        if (index == candidates.size() || target < 0) {
+            return;
+        }
+
+        // Option 1: Include the current element (can be reused, so index
+        // doesn't increment)
+        if (candidates[index] <= target) {
+            temp.push_back(candidates[index]);
+            solve(index, candidates, target - candidates[index], temp, ans);
+            temp.pop_back(); // backtrack
+        }
+
+        // Option 2: Exclude the current element and move to the next index
+        solve(index + 1, candidates, target, temp, ans);
+    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector<int> temp;
+        solve(0, candidates, target, temp, ans);
+        return ans;
     }
 };
