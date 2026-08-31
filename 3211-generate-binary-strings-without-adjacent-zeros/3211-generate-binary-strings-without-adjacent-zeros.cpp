@@ -1,13 +1,15 @@
 class Solution {
 public:
     void solve(int n, string& temp, char prev, vector<string>& ans) {
-        // base case
+        // base case hai 
         if (n == 0) {
             ans.push_back(temp);
             return;
         }
-        // we have two option either we take zero or one but if prev element is
-        // zero we cannot take
+        /*
+        -> we have two option either we take zero or one but if prev element is
+        zero we cannot take zero again and if prev element is 1 we can take both 1 and 0;
+        */
         if (prev != '0') {
             temp += '0';
             solve(n - 1, temp, '0', ans);
