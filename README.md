@@ -301,6 +301,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thenamerahulkr/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thenamerahulkr/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thenamerahulkr/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -320,6 +321,7 @@
 | [0216-combination-sum-iii](https://github.com/thenamerahulkr/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/thenamerahulkr/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2456-construct-smallest-number-from-di-string](https://github.com/thenamerahulkr/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thenamerahulkr/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -492,6 +494,7 @@
 | [0090-subsets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/thenamerahulkr/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thenamerahulkr/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Enumeration
