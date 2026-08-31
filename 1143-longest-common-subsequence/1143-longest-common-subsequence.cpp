@@ -23,18 +23,22 @@ public:
     int solveWithTabulation(string s1, string s2) {
         int m = s1.length();
         int n = s2.length();
+        vector<int> prev(n + 1, 0);
+        vector<int> curr(n + 1, 0);
+
         vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 // Characters match
-                if (s1[i-1] == s2[j-1]) {
-                    dp[i][j] = 1 + dp[i - 1][j - 1];
+                if (s1[i - 1] == s2[j - 1]) {
+                    curr[j] = 1 + prev[j - 1];
                 } else {
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+                    curr[j] = max(prev[j], curr[j - 1]);
                 }
             }
+            prev = curr;
         }
-        return dp[m][n];
+        return curr[n];
     }
 
     int longestCommonSubsequence(string s1, string s2) {
