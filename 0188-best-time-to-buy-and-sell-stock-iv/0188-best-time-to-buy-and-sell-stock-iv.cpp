@@ -23,20 +23,20 @@ public:
         int n = prices.size();
         vector<vector<int>> dp(n + 1, vector<int>(k + 1, 0));
         for (int i = n - 1; i >= 0; i--) {
-            for (int k = 4; k >= 1; k--) {
-                if (k % 2 == 0) {
-                    int buy = -prices[i] + dp[i + 1][k - 1];
-                    int skip = dp[i + 1][k];
-                    dp[i][k] = max(buy, skip);
+            for (int j = k; j >= 1; j--) {
+                if (j % 2 == 0) {
+                    int buy = -prices[i] + dp[i + 1][j - 1];
+                    int skip = dp[i + 1][j];
+                    dp[i][j] = max(buy, skip);
                 }
-                if (k % 2 != 0) {
-                    int sell = prices[i] + dp[i + 1][k - 1];
-                    int skip = dp[i + 1][k];
-                    dp[i][k] = max(sell, skip);
+                if (j % 2 != 0) {
+                    int sell = prices[i] + dp[i + 1][j - 1];
+                    int skip = dp[i + 1][j];
+                    dp[i][j] = max(sell, skip);
                 }
             }
         }
-        return dp[0][4];
+        return dp[0][k];
     }
     // TC -> O(n*k) and SC -> O(4k);
     int spaceOptimization(vector<int>& prices, int k) {
@@ -67,8 +67,8 @@ public:
         // int k = 4;
         int new_k = k * 2;
         vector<vector<int>> dp(n, vector<int>(new_k + 1, -1));
-        return solve(prices, 0, new_k, dp);
-        // return solveWithTabulation(prices, k);
+        // return solve(prices, 0, new_k, dp);
+        return solveWithTabulation(prices, new_k);
         // return spaceOptimization(prices, k);
     }
 };
