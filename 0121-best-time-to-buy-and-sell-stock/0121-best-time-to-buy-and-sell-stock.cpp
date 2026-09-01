@@ -10,15 +10,10 @@ public:
             int buy = -prices[i] + solve(prices, i + 1, k - 1, dp);
             int skip = solve(prices, i + 1, k, dp);
             profit = max(buy, skip);
-            // return dp[i][canBuy] = max(buy, skip);
         } else if (k == 1) {
-            // SELL karke transaction complete → STOP
             int sell = prices[i] + solve(prices, i + 1, k - 1, dp);
-
-            // Sell nahi kiya
             int skip = solve(prices, i + 1, k, dp);
             profit = max(sell, skip);
-            // return dp[i][canBuy] = max(sell, skip);
         }
         return dp[i][k] = profit;
     }
@@ -36,11 +31,31 @@ public:
                     int sell = prices[i] + dp[i + 1][k - 1];
                     int skip = dp[i + 1][k];
                     dp[i][k] = max(sell, skip);
-                    // return dp[i][canBuy] = max(sell, skip);
                 }
             }
         }
         return dp[0][2];
+    }
+    int spaceOptimization(vector<int>& prices, int k) {
+        int n = prices.size();
+        vector<int> prev(k + 1, 0);
+        vector<int> curr(k + 1, 0);
+        for (int i = n - 1; i >= 0; i--) {
+            for (int k = 2; k >= 1; k--) {
+                if (k == 2) {
+                    int buy = -prices[i] + prev[k-1];
+                    int skip = prev[k];
+                    curr[k] = max(buy, skip);
+                }
+                if (k == 1) {
+                    int sell = prices[i] + prev[k-1];
+                    int skip = prev[k];
+                    curr[k] = max(sell, skip);
+                }
+            }
+            prev = curr;
+        }
+        return curr[2];
     }
 
     int maxProfit(vector<int>& prices) {
@@ -49,6 +64,6 @@ public:
         int k = 2;
         vector<vector<int>> dp(n, vector<int>(k + 1, -1));
         // return solve(prices, 0, k, dp);
-        return solveWithTabulation(prices,k);
+        return spaceOptimization(prices, k);
     }
 };
