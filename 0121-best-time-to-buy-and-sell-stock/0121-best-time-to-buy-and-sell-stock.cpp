@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TC -> O(n*k) and SC -> O(n*k) + O(n*k);
     int solve(vector<int>& prices, int i, int k, vector<vector<int>>& dp) {
         if (i == prices.size() || k == 0)
             return 0;
@@ -17,6 +18,7 @@ public:
         }
         return dp[i][k] = profit;
     }
+    // TC -> O(n*k) and SC -> O(n*k);
     int solveWithTabulation(vector<int>& prices, int k) {
         int n = prices.size();
         vector<vector<int>> dp(n + 1, vector<int>(k + 1, 0));
@@ -36,6 +38,7 @@ public:
         }
         return dp[0][2];
     }
+    // TC -> O(n*k) and SC -> O(2k);
     int spaceOptimization(vector<int>& prices, int k) {
         int n = prices.size();
         vector<int> prev(k + 1, 0);
@@ -43,12 +46,12 @@ public:
         for (int i = n - 1; i >= 0; i--) {
             for (int k = 2; k >= 1; k--) {
                 if (k == 2) {
-                    int buy = -prices[i] + prev[k-1];
+                    int buy = -prices[i] + prev[k - 1];
                     int skip = prev[k];
                     curr[k] = max(buy, skip);
                 }
                 if (k == 1) {
-                    int sell = prices[i] + prev[k-1];
+                    int sell = prices[i] + prev[k - 1];
                     int skip = prev[k];
                     curr[k] = max(sell, skip);
                 }
