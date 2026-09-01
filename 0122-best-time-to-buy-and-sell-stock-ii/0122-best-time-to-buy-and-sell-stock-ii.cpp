@@ -19,10 +19,30 @@ public:
         }
         return dp[i][k] = profit;
     }
+    int solveWithTabulation(vector<int>& prices) {
+        int n = prices.size();
+        vector<vector<int>> dp(n + 1, vector<int>(3, 0));
+        for (int i = n - 1; i >= 0; i--) {
+            for (int k = 1; k >= 0; k--) {
+                if (k == 0) {
+                    int buy = -prices[i] + dp[i + 1][1];
+                    int skip = dp[i + 1][0];
+                    dp[i][k] = max(buy, skip);
+                }
+                else{
+                    int sell = prices[i] + dp[i + 1][0];
+                    int skip = dp[i + 1][1];
+                    dp[i][k] = max(sell, skip);
+                }
+            }
+        }
+        return dp[0][0];
+    }
 
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         vector<vector<int>> dp(n, vector<int>(3, -1));
-        return solve(prices, 0, 0, dp);
+        // return solve(prices, 0, 0, dp);
+        return solveWithTabulation(prices);
     }
 };
