@@ -38,19 +38,19 @@ public:
         }
         return dp[0][4];
     }
-    // TC -> O(n*k) and SC -> O(2k);
+    // TC -> O(n*k) and SC -> O(4k);
     int spaceOptimization(vector<int>& prices, int k) {
         int n = prices.size();
         vector<int> prev(k + 1, 0);
         vector<int> curr(k + 1, 0);
         for (int i = n - 1; i >= 0; i--) {
-            for (int k = 2; k >= 1; k--) {
-                if (k == 2) {
+            for (int k = 4; k >= 1; k--) {
+                if (k %2 == 0) {
                     int buy = -prices[i] + prev[k - 1];
                     int skip = prev[k];
                     curr[k] = max(buy, skip);
                 }
-                if (k == 1) {
+                if (k %2 != 0) {
                     int sell = prices[i] + prev[k - 1];
                     int skip = prev[k];
                     curr[k] = max(sell, skip);
@@ -58,7 +58,7 @@ public:
             }
             prev = curr;
         }
-        return curr[2];
+        return curr[4];
     }
 
     int maxProfit(vector<int>& prices) {
@@ -67,7 +67,8 @@ public:
         int k = 4;
         vector<vector<int>> dp(n, vector<int>(k + 1, -1));
         // return solve(prices, 0, k, dp);
-        return solveWithTabulation(prices, k);
+        // return solveWithTabulation(prices, k);
+        return spaceOptimization(prices, k);
         
     }
 };
