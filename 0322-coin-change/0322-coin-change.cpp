@@ -43,12 +43,35 @@ public:
         }
         return dp[0][k];
     }
+    int spaceOptimization(vector<int>& nums, int k) {
+        int n = nums.size();
+        vector<int> prev(k + 1, INT_MAX);
+        vector<int> curr(k + 1, INT_MAX);
+        prev[0] = 0;
+        curr[0] = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = 0; j <= k; j++) {
+                int currTake = INT_MAX;
+                int nextTake = INT_MAX;
+                if (nums[i] <= j) {
+                    int res = curr[j - nums[i]];
+                    if (res != INT_MAX) {
+                        currTake = 1 + res;
+                    }
+                }
+                nextTake = prev[j];
+                curr[j] = min(currTake, nextTake);
+            }
+            prev = curr;
+        }
+        return curr[k];
+    }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
         vector<vector<int>> dp(n + 1, vector<int>(amount + 1, -1));
         // int ans = solve(0, coins, amount, dp);
         // return (ans == INT_MAX) ? -1 : ans;
-        int ans = solveWithTabulation(coins, amount);
+        int ans = spaceOptimization(coins, amount);
         return (ans == INT_MAX) ? -1 : ans;
     }
 };
