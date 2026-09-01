@@ -37,22 +37,24 @@ public:
     }
     int spaceOptimization(vector<int>& prices) {
         int n = prices.size();
-        vector<int> prev(3, 0);
+        vector<int> prev1(3, 0);
+        vector<int> prev2(3, 0);
         vector<int> curr(3, 0);
         for (int i = n - 1; i >= 0; i--) {
             for (int k = 1; k >= 0; k--) {
                 if (k == 0) {
-                    int buy = -prices[i] + prev[1];
-                    int skip = prev[0];
+                    int buy = -prices[i] + prev1[1];
+                    int skip = prev1[0];
                     curr[k] = max(buy, skip);
                 }
                 else {
-                    int sell = prices[i] + prev[0];
-                    int skip = prev[1];
+                    int sell = prices[i] + prev2[0];
+                    int skip = prev1[1];
                     curr[k] = max(sell, skip);
                 }
             }
-            prev = curr;
+            prev2= prev1;
+            prev1 = curr;
         }
         return curr[0];
     }
@@ -61,7 +63,7 @@ public:
         int n = prices.size();
         vector<vector<int>> dp(n, vector<int>(2, -1));
         // return solve(prices, 0, 0, dp);
-        return solveWithTabulation(prices);
-        // return spaceOptimization(prices);
+        // return solveWithTabulation(prices);
+        return spaceOptimization(prices);
     }
 };
