@@ -38,6 +38,24 @@ public:
         }
         return dp[n][sum];
     }
+    bool spaceOptimization(vector<int>& arr, int sum) {
+        int n = arr.size();
+        vector<bool> prev(sum + 1, false);
+        vector<bool> curr(sum + 1, false);
+        prev[0] = true;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j <= sum; j++) {
+                bool notTake = prev[j];
+                bool take = false;
+                if (arr[i - 1] <= j) {
+                    take = prev[j - arr[i - 1]];
+                }
+                curr[j] = take || notTake;
+            }
+            prev = curr;
+        }
+        return curr[sum];
+    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int totalSum = accumulate(nums.begin(), nums.end(), 0);
@@ -46,6 +64,7 @@ public:
         int target = totalSum / 2;
         vector<vector<int>> dp(n + 1, vector<int>(target + 1, -1));
         // return solveWithMemo(nums, n - 1, target, n, dp);
-        return solveWithTabulation(nums, target);
+        // return solveWithTabulation(nums, target);
+        return spaceOptimization(nums, target);
     }
 };
