@@ -36,7 +36,7 @@ public:
         }
         return dp[0][0];
     }
-    int spaceOptimization(vector<int>& prices) {
+    int spaceOptimization(vector<int>& prices, int fee) {
         int n = prices.size();
         vector<int> prev(3, 0);
         vector<int> curr(3, 0);
@@ -47,7 +47,7 @@ public:
                     int skip = prev[0];
                     curr[k] = max(buy, skip);
                 } else {
-                    int sell = prices[i] + prev[0];
+                    int sell = prices[i] - fee + prev[0];
                     int skip = prev[1];
                     curr[k] = max(sell, skip);
                 }
@@ -61,7 +61,7 @@ public:
         int n = prices.size();
         vector<vector<int>> dp(n, vector<int>(3, -1));
         // return solve(prices, 0, 0, dp, fee);
-        return solveWithTabulation(prices, fee);
-        // return spaceOptimization(prices);
+        // return solveWithTabulation(prices, fee);
+        return spaceOptimization(prices, fee);
     }
 };
