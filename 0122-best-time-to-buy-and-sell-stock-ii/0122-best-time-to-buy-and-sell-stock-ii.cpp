@@ -1,37 +1,28 @@
 class Solution {
 public:
-    vector<vector<vector<int>>> dp;
-    int solve(vector<int>& prices, int i, bool canBuy, bool canSell,
-              vector<vector<vector<int>>>& dp) {
-        // Buy + Sell dono complete
-        if (i == prices.size() || (!canBuy && !canSell))
+    // TC -> O(n * k)
+    // SC -> O(n * k) + O(n) recursion stack
+    int solve(vector<int>& prices, int i, int k, vector<vector<int>>& dp) {
+        if (i == prices.size())
             return 0;
-        if (dp[i][canBuy][canSell] != -1)
-            return dp[i][canBuy][canSell];
-        int take = 0;
-        int notTake = 0;
-
-        if (canBuy) {
-            // Buy
-            take = -prices[i] + solve(prices, i + 1, false, true, dp);
-
-            // Buy nahi kiya
-            notTake = solve(prices, i + 1, true, true, dp);
-        } else if (canSell) {
-            // Sell
-            take = prices[i] + solve(prices, i + 1, true, false, dp);
-
-            // Sell nahi kiya
-            notTake = solve(prices, i + 1, false, true, dp);
+        if (dp[i][k] != -1)
+            return dp[i][k];
+        int profit = INT_MIN;
+        if (k == 0) {
+            int buy = -prices[i] + solve(prices, i + 1, 1, dp);
+            int skip = solve(prices, i + 1, 0, dp);
+            profit = max(buy, skip);
+        } else {
+            int sell = prices[i] + solve(prices, i + 1, 0, dp);
+            int skip = solve(prices, i + 1, 1, dp);
+            profit = max(sell, skip);
         }
-
-        return dp[i][canBuy][canSell] = max(take, notTake);
+        return dp[i][k] = profit;
     }
 
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-
-        dp.resize(n, vector<vector<int>>(2, vector<int>(2, -1)));
-        return solve(prices, 0, true, false, dp);
+        vector<vector<int>> dp(n, vector<int>(3, -1));
+        return solve(prices, 0, 0, dp);
     }
 };
