@@ -44,21 +44,21 @@ public:
         vector<int> prev(k + 1, 0);
         vector<int> curr(k + 1, 0);
         for (int i = n - 1; i >= 0; i--) {
-            for (int k = 4; k >= 1; k--) {
-                if (k % 2 == 0) {
-                    int buy = -prices[i] + prev[k - 1];
-                    int skip = prev[k];
-                    curr[k] = max(buy, skip);
+            for (int j = k; j >= 1; j--) {
+                if (j % 2 == 0) {
+                    int buy = -prices[i] + prev[j - 1];
+                    int skip = prev[j];
+                    curr[j] = max(buy, skip);
                 }
-                if (k % 2 != 0) {
-                    int sell = prices[i] + prev[k - 1];
-                    int skip = prev[k];
-                    curr[k] = max(sell, skip);
+                if (j % 2 != 0) {
+                    int sell = prices[i] + prev[j - 1];
+                    int skip = prev[j];
+                    curr[j] = max(sell, skip);
                 }
             }
             prev = curr;
         }
-        return curr[4];
+        return curr[k];
     }
 
     int maxProfit(int k, vector<int>& prices) {
