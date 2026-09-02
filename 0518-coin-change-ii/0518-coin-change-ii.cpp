@@ -40,20 +40,16 @@ public:
         int n = nums.size();
         vector<int> prev(k + 1, 0);
         vector<int> curr(k + 1, 0);
-        prev[0] = 0;
-        curr[0] = 0;
+        prev[0] = 1;
+        curr[0] = 1;
         for (int i = n - 1; i >= 0; i--) {
-            for (int j = 0; j <= k; j++) {
-                int currTake = 0;
-                int nextTake = 0;
+            for (int j = 1; j <= k; j++) {
+                long long currTake = 0;
+                long long nextTake = prev[j];
                 if (nums[i] <= j) {
-                    int res = curr[j - nums[i]];
-                    if (res != 0) {
-                        currTake = 1 + res;
-                    }
+                    currTake = curr[j - nums[i]];
                 }
-                nextTake = prev[j];
-                curr[j] = min(currTake, nextTake);
+                curr[j] = currTake + nextTake;
             }
             prev = curr;
         }
@@ -64,7 +60,7 @@ public:
         vector<vector<int>> dp(n + 1, vector<int>(amount + 1, -1));
         // int ans = solve(0, coins, amount, dp);
         // return (ans == INT_MAX) ? -1 : ans;
-        int ans = solveWithTabulation(coins, amount);
+        int ans = spaceOptimization(coins, amount);
         return (ans == INT_MAX) ? -1 : ans;
     }
 };
