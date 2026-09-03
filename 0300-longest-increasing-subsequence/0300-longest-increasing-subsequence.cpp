@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int solveWithMemo(int i, const vector<int>& nums, int prev,
-                      vector<vector<int>>& dp) {
+    int solveWithMemo(int i, const vector<int>& nums, int prev, vector<vector<int>>& dp) {
         int n = nums.size();
         if (i == n)
             return 0;
@@ -29,10 +28,27 @@ public:
         }
         return dp[0][0];
     }
+    int spaceOptimization(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> prev1(n+1,0);
+        vector<int> curr(n+1,0);
+        for (int i = n - 1; i >= 0; i--) {
+            for (int prev = -1; prev < n; prev++) {
+                int take = 0;
+                if (prev == -1 || nums[i] > nums[prev]) {
+                    take = 1 + prev1[i + 1];
+                }
+                int skip = prev1[prev + 1];
+                curr[prev + 1] = max(take, skip);
+            }
+            prev1 = curr;
+        }
+        return prev1[0];
+    }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         vector<vector<int>> dp(2501, vector<int>(2501, -1));
         // return solveWithMemo(0, nums, -1, dp);
-        return solveWithTabulation(nums);
+        return spaceOptimization(nums);
     }
 };
