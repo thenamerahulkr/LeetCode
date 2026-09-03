@@ -78,6 +78,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/thenamerahulkr/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/thenamerahulkr/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/thenamerahulkr/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/thenamerahulkr/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thenamerahulkr/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -551,6 +552,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/thenamerahulkr/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/thenamerahulkr/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/thenamerahulkr/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2140-solving-questions-with-brainpower](https://github.com/thenamerahulkr/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thenamerahulkr/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Memoization
