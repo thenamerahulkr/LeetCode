@@ -290,6 +290,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/thenamerahulkr/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0072-edit-distance](https://github.com/thenamerahulkr/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/thenamerahulkr/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0344-reverse-string](https://github.com/thenamerahulkr/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -532,6 +533,7 @@
 | [0063-unique-paths-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/thenamerahulkr/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/thenamerahulkr/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/thenamerahulkr/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenamerahulkr/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
