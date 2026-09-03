@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thenamerahulkr/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/thenamerahulkr/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0740-delete-and-earn](https://github.com/thenamerahulkr/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/thenamerahulkr/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -129,6 +130,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/thenamerahulkr/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -545,6 +547,7 @@
 | [0518-coin-change-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/thenamerahulkr/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thenamerahulkr/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0740-delete-and-earn](https://github.com/thenamerahulkr/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1140-stone-game-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
