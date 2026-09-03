@@ -14,9 +14,25 @@ public:
         int skip = 0 + solveWithMemo(i + 1, nums, prev, dp);
         return dp[i][prev + 1] = max(take, skip);
     }
+    int solveWithTabulation(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> dp(n + 1,vector<int>(n + 1, 0)); 
+        for (int i = n - 1; i >= 0; i--) {
+            for (int prev = -1; prev < n; prev++) {
+                int take = 0;
+                if (prev == -1 || nums[i] > nums[prev]) {
+                    take = 1 + dp[i + 1][i + 1];
+                }
+                int skip = dp[i + 1][prev + 1];
+                dp[i][prev + 1] = max(take, skip);
+            }
+        }
+        return dp[0][0];
+    }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         vector<vector<int>> dp(2501, vector<int>(2501, -1));
-        return solveWithMemo(0, nums, -1, dp);
+        // return solveWithMemo(0, nums, -1, dp);
+        return solveWithTabulation(nums);
     }
 };
