@@ -119,6 +119,7 @@
 | [3731-find-missing-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/thenamerahulkr/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/thenamerahulkr/LeetCode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -632,6 +633,7 @@
 | [1140-stone-game-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenamerahulkr/LeetCode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/thenamerahulkr/LeetCode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/thenamerahulkr/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
