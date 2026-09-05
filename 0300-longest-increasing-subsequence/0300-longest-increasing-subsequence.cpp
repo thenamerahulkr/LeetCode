@@ -1,5 +1,17 @@
 class Solution {
 public:
+    int doubleLoop(vector<int>& nums){
+        int n = nums.size();
+        vector<int> lis(n, 1);
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < i; j++){
+                if(nums[i] > nums[j]){
+                    lis[i] = max(lis[i], lis[j] + 1);
+                }
+            }
+        }
+        return *max_element(lis.begin(), lis.end());
+    }
     int solveWithMemo(int i, const vector<int>& nums, int prev, vector<vector<int>>& dp) {
         int n = nums.size();
         if (i == n)
@@ -49,6 +61,7 @@ public:
         int n = nums.size();
         vector<vector<int>> dp(2501, vector<int>(2501, -1));
         // return solveWithMemo(0, nums, -1, dp);
-        return spaceOptimization(nums);
+        // return spaceOptimization(nums);
+        return doubleLoop(nums);
     }
 };
