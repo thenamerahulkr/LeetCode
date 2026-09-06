@@ -33,22 +33,23 @@ private:
         }
         return area;
     }
-    // int dfs(int i, int j, vector<vector<int>>& grid) {
-    //     int area = 1;
-    //     if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) {
-    //         return 0;
-    //     }
-    //     grid[i][j];
-    //     // up
-    //     area += dfs(i - 1, j, grid);
-    //     // down
-    //     area += dfs(i + 1, j, grid);
-    //     // left
-    //     area += dfs(i, j - 1, grid);
-    //     // right
-    //     area += dfs(i, j + 1, grid);
-    //     return area;
-    // }
+    int dfs(int i, int j, vector<vector<int>>& grid) {
+        
+        if (i < 0 || i >= rows || j < 0 || j >= cols || grid[i][j] == 0) {
+            return 0;
+        }
+        int area = 1;
+        grid[i][j] = 0;
+        // up
+        area += dfs(i - 1, j, grid);
+        // down
+        area += dfs(i + 1, j, grid);
+        // left
+        area += dfs(i, j - 1, grid);
+        // right
+        area += dfs(i, j + 1, grid);
+        return area;
+    }
 
 public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {
@@ -58,7 +59,7 @@ public:
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
                 if (grid[row][col] == 1) {
-                    int area = bfs(row, col, grid);
+                    int area = dfs(row, col, grid);
                     max_area = max(area, max_area);
                 }
             }
