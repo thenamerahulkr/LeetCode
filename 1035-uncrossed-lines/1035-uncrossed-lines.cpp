@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int solveWithMemo(int i, int j, vector<int>& s1, vector<int>& s2,
-                      vector<vector<int>>& dp) {
+    int solveWithMemo(int i, int j, vector<int>& s1, vector<int>& s2, vector<vector<int>>& dp) {
         int m = s1.size();
         int n = s2.size();
         if (i < 0 || j < 0) {
