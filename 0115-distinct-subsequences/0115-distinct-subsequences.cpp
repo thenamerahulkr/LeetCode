@@ -30,9 +30,27 @@ public:
         
         return (int)dp[m][n];
     }
+    int spaceOptimization(string s, string t){
+        int m = s.length(), n = t.length();
+        vector<unsigned long long> dp(n + 1, 0);
+        
+        // Base case: 1 way to form an empty string 't'
+        dp[0] = 1;
+        
+        for (int i = 1; i <= m; ++i) {
+            // Iterate backwards to preserve the previous row's values (dp[i-1])
+            for (int j = n; j >= 1; --j) {
+                if (s[i - 1] == t[j - 1]) {
+                    dp[j] += dp[j - 1];
+                }
+            }
+        }
+        
+        return (int)dp[n];
+    }
     int numDistinct(string s, string t) {
         memset(memo, -1, sizeof(memo));
         // return solve(s, t, s.length(), t.length());
-        return tabulation(s,t);
+        return spaceOptimization(s,t);
     }
 };
