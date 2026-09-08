@@ -502,6 +502,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thenamerahulkr/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/thenamerahulkr/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
