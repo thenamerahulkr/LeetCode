@@ -504,6 +504,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thenamerahulkr/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/thenamerahulkr/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
