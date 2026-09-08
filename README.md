@@ -53,6 +53,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/thenamerahulkr/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thenamerahulkr/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1035-uncrossed-lines](https://github.com/thenamerahulkr/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1048-longest-string-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1127-last-stone-weight](https://github.com/thenamerahulkr/LeetCode/tree/master/1127-last-stone-weight) |
@@ -571,6 +572,7 @@
 | [0740-delete-and-earn](https://github.com/thenamerahulkr/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/thenamerahulkr/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/thenamerahulkr/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1035-uncrossed-lines](https://github.com/thenamerahulkr/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1048-longest-string-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -806,6 +808,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/thenamerahulkr/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1035-uncrossed-lines](https://github.com/thenamerahulkr/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
