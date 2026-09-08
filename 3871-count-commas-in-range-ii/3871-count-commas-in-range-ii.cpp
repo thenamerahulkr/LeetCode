@@ -7,10 +7,7 @@ public:
         while (start <= n) {
             long long nextStart = start * 1000;
             long long end = min(n, nextStart - 1);
-            
-            // Numbers from start to end all have the same number of commas
             totalCommas += (end - start + 1) * commas;
-            
             start = nextStart;
             commas++;
         }
