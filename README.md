@@ -359,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thenamerahulkr/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
@@ -389,6 +390,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -400,6 +402,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/thenamerahulkr/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -423,6 +426,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
