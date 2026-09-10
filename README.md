@@ -359,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thenamerahulkr/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -391,6 +392,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -400,6 +402,7 @@
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/thenamerahulkr/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/thenamerahulkr/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -423,6 +426,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
