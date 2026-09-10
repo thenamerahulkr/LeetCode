@@ -402,6 +402,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +424,7 @@
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -443,6 +445,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +468,7 @@
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/thenamerahulkr/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
