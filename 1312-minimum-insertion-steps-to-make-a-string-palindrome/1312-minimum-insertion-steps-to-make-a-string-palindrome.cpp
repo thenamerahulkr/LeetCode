@@ -1,23 +1,40 @@
 class Solution {
-private:
-    int solve(string& s, int i, int j, vector<vector<int>>& dp) {
-        if (i >= j) return 0;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        if (s[i] == s[j]) {
-            dp[i][j] = solve(s, i + 1, j - 1, dp);
-        } else {
-            dp[i][j] = 1 + min(solve(s, i + 1, j, dp), solve(s, i, j - 1, dp));
-        }
-
-        return dp[i][j];
-    }
-
 public:
+    // int solveWithMemo(int i, int j, string& s) {
+    //     if (i >= j)
+    //         return 0;
+
+    //     if (s[i] == s[j]) {
+    //         return 0 + solveWithMemo(i + 1, j - 1, s);
+    //     } else {
+    //         return 1 +
+    //                min(solveWithMemo(i + 1, j, s), solveWithMemo(i, j - 1, s));
+    //     }
+    // }
+    int memo[1000][1000];
+    int solveWithMemo(int i, int j, string& s) {
+        if (i > j)
+            return 0;
+        if (i == j)
+            return 1;
+        if (memo[i][j] != -1)
+            return memo[i][j];
+        if (s[i] == s[j]) {
+            return memo[i][j] = 2 + solveWithMemo(i + 1, j - 1, s);
+        } else {
+            return memo[i][j] = max(solveWithMemo(i + 1, j, s),
+                                    solveWithMemo(i, j - 1, s));
+        }
+    }
+    int longestPalindromeSubseq(string s) {
+        int n = s.length();
+        memset(memo, -1, sizeof(memo));
+        return solveWithMemo(0, n - 1, s);
+    }
     int minInsertions(string s) {
         int n = s.size();
-        vector<vector<int>> dp(n, vector<int>(n, -1));
-        return solve(s, 0, n - 1, dp);
+        // vector<vector<int>> dp(n, vector<int>(n, -1));
+        // return solveWithMemo(0, n - 1, s);
+        return n - longestPalindromeSubseq(s);
     }
 };
