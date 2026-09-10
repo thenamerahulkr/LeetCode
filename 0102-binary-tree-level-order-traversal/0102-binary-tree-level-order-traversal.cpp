@@ -1,22 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
+    void leverOrderTraversal(TreeNode* root, vector<vector<int>>& levelOrder) {
         queue<TreeNode*> q;
         q.push(root);
-        if(!root) return ans;
-        while (q.size()>0) {
-            int n = q.size();
-            vector<int> levels;
-            for (int i = 0; i < n; i++) {
-                TreeNode* temp = q.front();
+        while (!q.empty()) {
+            int size = q.size();
+            vector<int> singleLevel;
+            while (size--) {
+                TreeNode* current = q.front();
                 q.pop();
-                levels.push_back(temp->val);
-                if (temp->left != NULL)  q.push(temp->left);
-                if (temp->right != NULL) q.push(temp->right);   
+                singleLevel.push_back(current->val);
+                if (current->left)
+                    q.push(current->left);
+                if (current->right)
+                    q.push(current->right);
             }
-            ans.push_back(levels);
+            levelOrder.push_back(singleLevel);
         }
-        return ans;
+    }
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        if (root == nullptr)
+            return {};
+        // if (!root->left && !root->right)
+        //     return root->val;
+        vector<vector<int>> levelOrder;
+        leverOrderTraversal(root, levelOrder);
+        return levelOrder;
     }
 };
