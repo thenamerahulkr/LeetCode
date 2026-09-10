@@ -21,8 +21,6 @@ public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         if (root == nullptr)
             return {};
-        // if (!root->left && !root->right)
-        //     return root->val;
         vector<vector<int>> levelOrder;
         leverOrderTraversal(root, levelOrder);
         return levelOrder;
