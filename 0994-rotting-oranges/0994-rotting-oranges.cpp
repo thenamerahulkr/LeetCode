@@ -1,35 +1,28 @@
 class Solution {
 public:
     typedef pair<int, int> p;
-    int dx[4] = {1, -1, 0, 0};
-    int dy[4] = {0, 0, 1, -1};
-    int bfs(queue<p>& q, vector<vector<int>>& grid, int& fresh) {
+    int multiSourceBfs(queue<p>& q, vector<vector<int>>& grid, int& fresh) {
         int minutes = 0;
         int m = grid.size();
         int n = grid[0].size();
-
+        vector<vector<int>> directions = {
+            {0, 1},
+        {-1, 0},    {1, 0},
+            {0, -1}
+        };
         while (!q.empty() && fresh > 0) {
-
             int size = q.size();
-
             while (size--) {
-
                 auto [r, c] = q.front();
                 q.pop();
-
                 for (int k = 0; k < 4; k++) {
-
-                    int nr = r + dx[k];
-                    int nc = c + dy[k];
-
+                    int nr = r + directions[k][0];
+                    int nc = c + directions[k][1];
                     if (nr < 0 || nr >= m || nc < 0 || nc >= n)
                         continue;
-
                     if (grid[nr][nc] == 1) {
-
                         grid[nr][nc] = 2;
                         fresh--;
-
                         q.push({nr, nc});
                     }
                 }
@@ -52,6 +45,6 @@ public:
                 }
             }
         }
-        return bfs(q, grid, number_of_fresh);
+        return multiSourceBfs(q, grid, number_of_fresh);
     }
 };
