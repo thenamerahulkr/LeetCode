@@ -1,30 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-        if (!root) return {};
+        if (!root)
+            return {};
+        vector<vector<int>> bottomUpLevelorder;
         queue<TreeNode*> q;
-        vector<vector<int>> ans;
-        // stack<vector<int>> st;
         q.push(root);
         while (!q.empty()) {
-            int level = q.size();
-            vector<int> v(level);
-            for (int i = 0; i < level; i++) {
-                TreeNode* curr = q.front();
+            int size = q.size();
+            vector<int> currentLevel;
+            while (size--) {
+                TreeNode* node = q.front();
                 q.pop();
-                v[i] = curr->val;
-                if (curr->left)
-                    q.push(curr->left);
-                if (curr->right)
-                    q.push(curr->right);
+                currentLevel.push_back(node->val);
+                if (node->left)
+                    q.push(node->left);
+                if (node->right)
+                    q.push(node->right);
             }
-            // st.push(v);
-            ans.insert(ans.begin(),v);
+            bottomUpLevelorder.push_back(currentLevel);
         }
-        // while (st.size() > 0) {
-        //     ans.push_back(st.top());
-        //     st.pop();
-        // }
-        return ans;
+        // Reverse the levels
+        reverse(bottomUpLevelorder.begin(), bottomUpLevelorder.end());
+        return bottomUpLevelorder;
     }
 };
