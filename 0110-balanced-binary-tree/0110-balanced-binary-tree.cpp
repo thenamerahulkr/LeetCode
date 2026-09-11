@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int usingLevelOrder(TreeNode* root) {
+    int heightUsingLevelOrder(TreeNode* root) {
         queue<TreeNode*> q;
         q.push(root);
         int height = 0;
