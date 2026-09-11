@@ -1,24 +1,36 @@
 class Solution {
 public:
-    bool preOrderTraversal(TreeNode* root, int uniValue){
-        if(!root) return true;
-        if(root->val != uniValue) return false;
+    bool preOrderTraversal(TreeNode* root, int uniValue) {
+        if (!root)
+            return true;
+        if (root->val != uniValue)
+            return false;
         bool leftResult = preOrderTraversal(root->left, uniValue);
         bool rightResult = preOrderTraversal(root->right, uniValue);
         return leftResult && rightResult;
     }
+    bool levelOrderTraversal(TreeNode* root) {
+        if (!root)
+            return true;
+        int uniValue = root->val;
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            TreeNode* current = q.front();
+            q.pop();
+            if (current->val != uniValue) {
+                return false;
+            }
+            if (current->left)
+                q.push(current->left);
+            if (current->right)
+                q.push(current->right);
+        }
+        return true;
+    }
     bool isUnivalTree(TreeNode* root) {
-        // stack<TreeNode*> st;
-        // st.push(root);
-        int val = root->val;
-        // while(st.size()>0){
-        //     TreeNode* temp = st.top();
-        //     st.pop();
-        //     if(temp->val != val) return false;
-        //     if(temp->right) st.push(temp->right);
-        //     if(temp->left) st.push(temp->left);
-        // }
-        // return true;
-        return preOrderTraversal(root, val);
+        int uniValue = root->val;
+        return levelOrderTraversal(root);
+        // return preOrderTraversal(root, uniValue);
     }
 };
