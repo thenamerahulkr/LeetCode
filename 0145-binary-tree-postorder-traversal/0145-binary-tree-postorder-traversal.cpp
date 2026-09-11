@@ -1,5 +1,22 @@
 class Solution {
 public:
+    void usingTwoStack(TreeNode* root, vector<int>& post){
+        stack<TreeNode*> s1, s2;
+        s1.push(root);
+        while (!s1.empty()) {
+            TreeNode* current = s1.top();
+            s1.pop();
+            s2.push(current);
+            if (current->left)
+                s1.push(current->left);
+            if (current->right)
+                s1.push(current->right);
+        }
+        while (!s2.empty()) {
+            post.push_back(s2.top()->val);
+            s2.pop();
+        }
+    }
     void usingStackInReverse(TreeNode* root, vector<int>& post){
         stack<TreeNode*> st;
         st.push(root);
@@ -29,7 +46,8 @@ public:
         if (root == nullptr)
             return post;
         // postOrder(root,post);
-        usingStackInReverse(root, post);
+        usingTwoStack(root, post);
+        // usingStackInReverse(root, post);
         return post;
     }
 };
