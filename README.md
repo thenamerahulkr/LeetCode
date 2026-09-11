@@ -404,6 +404,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -455,6 +456,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -640,6 +642,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
