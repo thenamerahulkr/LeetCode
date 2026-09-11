@@ -20,15 +20,19 @@ public:
         }
         return height;
     }
-    int heightUsingRecursion(TreeNode* root){
-        if(!root) return 0;
-        return 1 + max(heightUsingRecursion(root->left), heightUsingRecursion(root->right));
+    int heightUsingRecursion(TreeNode* root) {
+        if (!root)
+            return 0;
+        return 1 + max(heightUsingRecursion(root->left),
+                       heightUsingRecursion(root->right));
     }
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) return true;
+        if (root == nullptr)
+            return true;
         int leftHeight = heightUsingRecursion(root->left);
         int rightHeight = heightUsingRecursion(root->right);
-        if(abs(leftHeight - rightHeight)>1) return false;
+        if (abs(leftHeight - rightHeight) > 1)
+            return false;
         return isBalanced(root->left) && isBalanced(root->right);
     }
 };
