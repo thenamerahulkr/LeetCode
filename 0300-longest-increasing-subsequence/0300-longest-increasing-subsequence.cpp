@@ -1,6 +1,19 @@
 class Solution {
 public:
+    int usingBinarySearch(vector<int>& nums){
+        int n = nums.size();
+        vector<int> pile;
+        for(int i = 0; i < n; i++){
+            auto it = lower_bound(pile.begin(), pile.end(), nums[i]);
+            if(it == pile.end()){
+                pile.push_back(nums[i]);
+            }
+            else *it = nums[i];
+        }
+        return pile.size();
+    }
     int doubleLoop(vector<int>& nums){
+        // O(n^2);
         int n = nums.size();
         vector<int> lis(n, 1);
         for(int i = 0; i < n; i++){
@@ -62,6 +75,7 @@ public:
         vector<vector<int>> dp(2501, vector<int>(2501, -1));
         // return solveWithMemo(0, nums, -1, dp);
         // return spaceOptimization(nums);
-        return doubleLoop(nums);
+        // return doubleLoop(nums);
+        return usingBinarySearch(nums);
     }
 };
