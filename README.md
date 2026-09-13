@@ -154,6 +154,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-count-number-of-bad-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/2370-longest-ideal-subsequence/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thenamerahulkr/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2442-number-of-arithmetic-triplets](https://github.com/thenamerahulkr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenamerahulkr/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thenamerahulkr/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -419,6 +420,7 @@
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thenamerahulkr/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +455,7 @@
 | [1631-path-with-minimum-effort](https://github.com/thenamerahulkr/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thenamerahulkr/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/thenamerahulkr/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -480,6 +483,7 @@
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thenamerahulkr/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,6 +519,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/thenamerahulkr/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/thenamerahulkr/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thenamerahulkr/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thenamerahulkr/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/thenamerahulkr/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Two Pointers
