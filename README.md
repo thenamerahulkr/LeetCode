@@ -417,6 +417,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -448,6 +449,7 @@
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -481,6 +483,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-search-in-a-binary-search-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
