@@ -11,17 +11,44 @@
  */
 class Solution {
 public:
-    TreeNode* insertIntoBST(TreeNode* root, int val) {
+    TreeNode* usingIterative(TreeNode* root, int val){
         if(root == nullptr){
             TreeNode* temp = new TreeNode(val);
             return temp;
         }
-        if(val > root->val){
-           root->right = insertIntoBST(root->right, val);
-        }
-        else{
-          root->left =  insertIntoBST(root->left, val);
+        TreeNode* curr = root;
+        while(true){
+            // left me jao
+            if (val < curr->val) {
+                if (!curr->left) {
+                    curr->left = new TreeNode(val); 
+                    break; 
+                }
+                curr = curr->left;
+            }
+            // right me jao 
+            else {
+               if (!curr->right) {
+                    curr->right = new TreeNode(val); 
+                    break; 
+                }
+                curr = curr->right;
+            }
         }
         return root;
+    }
+    TreeNode* insertIntoBST(TreeNode* root, int val) {
+        // if(root == nullptr){
+        //     TreeNode* temp = new TreeNode(val);
+        //     return temp;
+        // }
+        // if(val > root->val){
+        //    root->right = insertIntoBST(root->right, val);
+        // }
+        // else{
+        //   root->left =  insertIntoBST(root->left, val);
+        // }
+        // return root;
+        return usingIterative(root, val);
     }
 };
