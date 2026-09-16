@@ -144,6 +144,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenamerahulkr/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/thenamerahulkr/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -234,6 +235,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -419,6 +421,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -452,6 +455,7 @@
 | [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -485,6 +489,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -514,6 +519,7 @@
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
