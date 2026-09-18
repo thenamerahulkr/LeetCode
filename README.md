@@ -14,6 +14,7 @@
 | [0063-unique-paths-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/thenamerahulkr/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/thenamerahulkr/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -321,6 +322,7 @@
 | [0022-generate-parentheses](https://github.com/thenamerahulkr/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/thenamerahulkr/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/thenamerahulkr/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/thenamerahulkr/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0344-reverse-string](https://github.com/thenamerahulkr/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -367,6 +369,7 @@
 | [0040-combination-sum-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/thenamerahulkr/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/thenamerahulkr/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -439,6 +442,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -721,6 +725,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/thenamerahulkr/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/thenamerahulkr/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
