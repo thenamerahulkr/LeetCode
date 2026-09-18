@@ -35,6 +35,7 @@
 | [0307-range-sum-query-mutable](https://github.com/thenamerahulkr/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thenamerahulkr/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/thenamerahulkr/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0414-third-maximum-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/thenamerahulkr/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
