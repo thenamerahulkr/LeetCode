@@ -23,12 +23,14 @@ public:
              int currColor) {
         color[startNode] = currColor;
         for (auto neighbour : adj[startNode]) {
-            if (color[neighbour] != -1 && color[neighbour] == currColor)
+            if (color[neighbour] != -1 && color[neighbour] == currColor){
                 return false;
+            }
+
             if (color[neighbour] == -1) {
                 color[neighbour] = 1 - currColor;
-                if (!dfs(neighbour, adj, color, 1 - currColor))
-                    return false;
+                bool res = dfs(neighbour, adj, color, 1 - currColor);
+                if(!res) return false;
             }
         }
         return true;
@@ -46,7 +48,7 @@ public:
         int result = true;
         for (int i = 1; i < n; i++) {
             if (color[i] == -1) {
-                result = bfs(i, adj, color, currColor);
+                result = dfs(i, adj, color, currColor);
                 if (!result)
                     return false;
             }
