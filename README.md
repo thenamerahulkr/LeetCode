@@ -471,6 +471,7 @@
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -537,6 +538,7 @@
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -803,6 +805,7 @@
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/thenamerahulkr/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
+| [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -817,6 +820,7 @@
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/thenamerahulkr/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/thenamerahulkr/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -957,4 +961,12 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/thenamerahulkr/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/thenamerahulkr/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
