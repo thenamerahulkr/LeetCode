@@ -186,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/thenamerahulkr/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/thenamerahulkr/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -426,6 +427,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thenamerahulkr/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/thenamerahulkr/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -495,6 +497,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thenamerahulkr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thenamerahulkr/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/thenamerahulkr/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -634,6 +637,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/thenamerahulkr/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/thenamerahulkr/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/thenamerahulkr/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2478-longest-nice-subarray](https://github.com/thenamerahulkr/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thenamerahulkr/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
