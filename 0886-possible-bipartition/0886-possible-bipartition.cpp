@@ -12,7 +12,7 @@ public:
                 if (color[neighbour] != -1 && color[neighbour] == nodeColor)
                     return false;
                 if (color[neighbour] == -1) {
-                    color[neighbour] = 1 - nodeColor;
+                    // color[neighbour] = 1 - nodeColor;
                     q.push({neighbour, 1 - nodeColor});
                 }
             }
