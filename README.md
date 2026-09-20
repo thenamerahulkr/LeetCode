@@ -470,6 +470,7 @@
 | [0695-max-area-of-island](https://github.com/thenamerahulkr/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/thenamerahulkr/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/thenamerahulkr/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -541,6 +542,7 @@
 | [0695-max-area-of-island](https://github.com/thenamerahulkr/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/thenamerahulkr/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/thenamerahulkr/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -812,6 +814,7 @@
 | [0547-number-of-provinces](https://github.com/thenamerahulkr/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/thenamerahulkr/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/thenamerahulkr/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0839-similar-string-groups](https://github.com/thenamerahulkr/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -830,6 +833,7 @@
 | [0547-number-of-provinces](https://github.com/thenamerahulkr/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/thenamerahulkr/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/thenamerahulkr/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/thenamerahulkr/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/thenamerahulkr/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -975,10 +979,12 @@
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/thenamerahulkr/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/thenamerahulkr/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
