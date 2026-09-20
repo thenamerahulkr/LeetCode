@@ -42,6 +42,7 @@
 | [0494-target-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -535,6 +536,7 @@
 | [0207-course-schedule](https://github.com/thenamerahulkr/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/thenamerahulkr/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/thenamerahulkr/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -686,6 +688,7 @@
 | [0509-fibonacci-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/thenamerahulkr/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/thenamerahulkr/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/thenamerahulkr/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -746,6 +749,7 @@
 | [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/thenamerahulkr/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/thenamerahulkr/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/thenamerahulkr/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/thenamerahulkr/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/thenamerahulkr/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/thenamerahulkr/LeetCode/tree/main/0835-image-overlap/) | Medium |
