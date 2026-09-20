@@ -441,6 +441,7 @@
 | [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -480,6 +481,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/thenamerahulkr/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/thenamerahulkr/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -516,6 +518,7 @@
 | [0872-leaf-similar-trees](https://github.com/thenamerahulkr/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/thenamerahulkr/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -551,6 +554,7 @@
 | [0886-possible-bipartition](https://github.com/thenamerahulkr/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/thenamerahulkr/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1005-univalued-binary-tree](https://github.com/thenamerahulkr/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/thenamerahulkr/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
