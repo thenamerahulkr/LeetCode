@@ -12,18 +12,17 @@
  */
 class Solution {
 public:
-    int solvedfs(TreeNode* root, int& counter, int k) {
+    int solvedfs(TreeNode* root, int& k) {
         if (!root)
             return -1;
-        int left = solvedfs(root->left, counter, k);
+        int left = solvedfs(root->left, k);
         if (left != -1)
             return left;
-        counter++;
-        if (counter == k)
+        k--;
+        if (k == 0)
             return root->val;
-        return solvedfs(root->right, counter, k);
+        return solvedfs(root->right, k);
     }
     int kthSmallest(TreeNode* root, int k) { 
-        int counter = 0;
-        return solvedfs(root, counter, k); }
+        return solvedfs(root, k); }
 };
