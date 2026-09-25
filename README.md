@@ -150,6 +150,7 @@
 | [0141-linked-list-cycle](https://github.com/thenamerahulkr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/thenamerahulkr/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thenamerahulkr/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenamerahulkr/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -251,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/thenamerahulkr/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/thenamerahulkr/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/thenamerahulkr/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenamerahulkr/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/thenamerahulkr/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -336,6 +338,7 @@
 | [0079-word-search](https://github.com/thenamerahulkr/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/thenamerahulkr/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/thenamerahulkr/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0242-valid-anagram](https://github.com/thenamerahulkr/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/thenamerahulkr/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/thenamerahulkr/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/thenamerahulkr/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
