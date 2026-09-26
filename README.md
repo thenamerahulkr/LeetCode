@@ -86,6 +86,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/thenamerahulkr/LeetCode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1695-maximum-erasure-value](https://github.com/thenamerahulkr/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thenamerahulkr/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/thenamerahulkr/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/thenamerahulkr/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/thenamerahulkr/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -168,6 +169,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thenamerahulkr/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thenamerahulkr/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/thenamerahulkr/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thenamerahulkr/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/thenamerahulkr/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-count-number-of-bad-pairs](https://github.com/thenamerahulkr/LeetCode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -358,6 +360,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenamerahulkr/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thenamerahulkr/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/thenamerahulkr/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thenamerahulkr/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/thenamerahulkr/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thenamerahulkr/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/thenamerahulkr/LeetCode/tree/main/2370-longest-ideal-subsequence/) | Medium |
